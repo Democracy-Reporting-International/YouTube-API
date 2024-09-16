@@ -9,3 +9,9 @@ Thanks!
 Duncan Allen
 
 Digital Democracy Researcher
+
+# Useful Links
+
+Official Documentation by YouTube:
+
+https://developers.google.com/youtube/v3/docs/
